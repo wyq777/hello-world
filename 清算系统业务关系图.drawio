@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="jm-ICzLbFwBc4CV8h0vN">
+    <mxGraphModel dx="901" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=20;" value="新一代清算系统业务关系图" vertex="1">
+          <mxGeometry height="50" width="260" x="260" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;arcSize=6;shadow=1;" value="" vertex="1">
+          <mxGeometry height="540" width="830" x="420" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-3" parent="oljy7ltq-aTi_KgI6_K_-2" style="text;html=1;fontSize=17;align=left;verticalAlign=middle;fillColor=none;strokeColor=none;fontColor=#333333;" value="&lt;b&gt;结算核心服务&lt;/b&gt;" vertex="1">
+          <mxGeometry height="44.28870967741936" width="120" x="355" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-22" connectable="0" parent="oljy7ltq-aTi_KgI6_K_-2" style="group" value="" vertex="1">
+          <mxGeometry height="79.35" width="336" x="470" y="400.65" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-19" parent="oljy7ltq-aTi_KgI6_K_-22" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="79.35" width="304.5" x="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-12" parent="oljy7ltq-aTi_KgI6_K_-22" style="text;html=1;fontSize=12;align=right;verticalAlign=middle;fillColor=none;strokeColor=none;fontColor=#d79b00;" value="输出 ▼" vertex="1">
+          <mxGeometry height="18.640551623376627" width="52.5" x="42" y="7.471266233766256" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-20" parent="oljy7ltq-aTi_KgI6_K_-22" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" value="持仓结果" vertex="1">
+          <mxGeometry height="34.07850633116884" width="78.75" x="115.5" y="31.430844155844223" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-21" parent="oljy7ltq-aTi_KgI6_K_-22" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" value="资金结果" vertex="1">
+          <mxGeometry height="34.07850633116884" width="78.75" x="231" y="31.430844155844145" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-23" connectable="0" parent="oljy7ltq-aTi_KgI6_K_-2" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="76.45" width="680" x="40" y="43.55" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-16" parent="oljy7ltq-aTi_KgI6_K_-23" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="76.45" width="680" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-4" parent="oljy7ltq-aTi_KgI6_K_-23" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" value="结算价" vertex="1">
+          <mxGeometry height="32.61795320467954" width="69.51219512195122" x="57.92335365853659" y="28.54357564243576" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-5" parent="oljy7ltq-aTi_KgI6_K_-23" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" value="成交" vertex="1">
+          <mxGeometry height="31.991125887411258" width="69.51219512195122" x="155.24390243902437" y="29.170402959704038" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-6" parent="oljy7ltq-aTi_KgI6_K_-23" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" value="品种" vertex="1">
+          <mxGeometry height="31.991125887411258" width="69.51219512195122" x="256.5039390243902" y="29.170402959704038" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-7" parent="oljy7ltq-aTi_KgI6_K_-23" style="text;html=1;fontSize=12;align=left;fillColor=none;strokeColor=none;fontColor=#97D077;" value="&amp;nbsp;▼输入" vertex="1">
+          <mxGeometry height="28.538479485384787" width="46.34146341463415" x="11.585365853658537" y="0.003011365530123531" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-25" parent="oljy7ltq-aTi_KgI6_K_-23" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" value="费率" vertex="1">
+          <mxGeometry height="31.991125887411258" width="69.51219512195122" x="460" y="29.169999999999963" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-26" parent="oljy7ltq-aTi_KgI6_K_-23" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" value="合约" vertex="1">
+          <mxGeometry height="31.991125887411258" width="69.51219512195122" x="360" y="29.170000000000016" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-27" parent="oljy7ltq-aTi_KgI6_K_-23" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" value="其他参数" vertex="1">
+          <mxGeometry height="31.991125887411258" width="69.51219512195122" x="570" y="29.169999999999987" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-24" connectable="0" parent="oljy7ltq-aTi_KgI6_K_-2" style="group" value="" vertex="1">
+          <mxGeometry height="165.8" width="740" x="50" y="174.2" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-17" parent="oljy7ltq-aTi_KgI6_K_-24" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="165.79999999999998" width="740" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-8" parent="oljy7ltq-aTi_KgI6_K_-24" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;" value="持仓" vertex="1">
+          <mxGeometry height="75.67111999999999" width="150" x="36" y="55.26666666666675" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-9" parent="oljy7ltq-aTi_KgI6_K_-24" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;" value="手续费" vertex="1">
+          <mxGeometry height="75.67111999999999" width="150" x="213" y="55.26666666666675" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-10" parent="oljy7ltq-aTi_KgI6_K_-24" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;" value="保证金" vertex="1">
+          <mxGeometry height="75.67111999999999" width="150" x="386" y="55.26666666666675" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-11" parent="oljy7ltq-aTi_KgI6_K_-24" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;" value="资金" vertex="1">
+          <mxGeometry height="75.67111999999999" width="150" x="556" y="55.26666666666675" as="geometry" />
+        </mxCell>
+        <mxCell id="oljy7ltq-aTi_KgI6_K_-18" parent="oljy7ltq-aTi_KgI6_K_-24" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="核心功能" vertex="1">
+          <mxGeometry height="33.16" width="60" x="16" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
